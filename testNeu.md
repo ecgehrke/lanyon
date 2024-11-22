@@ -3,27 +3,27 @@ layout: page
 title: Nextseeite
 ---
 
-<p class="message">
-  Hey there! This pnew sample xxxxxxxxxxxxxxxxxeel free to customize it for your own use upon downloading. Carry on!
-</p>
+# News
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Latest Developer Information
 
-There are currently two themes built on Poole:
+> Stay tuned and always be informed about our latest news
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Latest Updates 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+?>:information_source: **The latest update is always the top one.**
 
-## Setup
+| Date | MDG Cloud   |
+|------|-------------|
+|2023-03-03| release branch rel-23.5 created| 
+|2023-03-22| ECC rel-23.5 | 
 
-Some fun facts abosome more dsamplesup of this project include:
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Next Release S4: 2308
 
-Thanks for reading!
+| Date | Timeline |
+|------|-------------|
+|2023-05-11| Release Context Freeze |
+|2023-05-27| MRC Start (Code Split 22-08) DevClose|
+|2023-06-13| FRB |
