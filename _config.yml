@@ -1,6 +1,6 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               A header title
+tagline:             'A interesting links eme'
 description:         'This is my dev collection.'
 baseurl:             '/lanyon/'
 paginate:            5
